@@ -13,7 +13,7 @@ IT 연합동아리 '코테이토' 13기 교육팀 발표 자료 폴더입니다.
 
 # Members
 
-| <img src="https://github.com/hyunj24.png" width=120/> | <img src="https://github.com/lemoncurdyogurt.png" width=120/> | <img src="https://github.com/kangcheolung.png" width=120 /> | <img src="https://github.com/kdhye516.png" width=120 /> | <img src="https://github.com/Baeseona.png" width=120 /> | <img src="https://github.com/Limlim0208.png" width=120 /> |
+| <img src="https://github.com/hyunj24.png" width=120/> | <img src="https://github.com/lemoncurdyogurt.png" width=120/> | <img src="https://github.com/kangcheolung.png" width=120 /> | <img src="https://github.com/kdhye516.png" width=120 /> | <img src="https://github.com/pearseona.png" width=120 /> | <img src="https://github.com/Limlim0208.png" width=120 /> |
 | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: |
 | [박현정](https://github.com/hyunj24) | [신수진](https://github.com/lemoncurdyogurt) | [강철웅](https://github.com/kangcheolung) | [김다혜](https://github.com/kdhye516) | [배선아](https://github.com/Baeseona) | [임유미](https://github.com/Limlim0208) |
 | [ 12기 BE ] 교육팀장 | [ 12기 FE ] 교육팀 부팀장 | [ 12기 BE ] 교육팀 부팀장 | [ 13기 FE ] 교육팀원 | [ 13기 BE ] 교육팀원 | [ 13기 FE ] 교육팀원 |
@@ -25,10 +25,10 @@ IT 연합동아리 '코테이토' 13기 교육팀 발표 자료 폴더입니다.
 | 1회차 | Git | 박현정 | 2026.03.06 |
 | 2회차 | WebSocket | 강철웅 | 2026.04.03 |
 | 3회차 | 웹브라우저의 생애주기 | 신수진 | 2026.05.15 |
-| 4회차 | 미정 | 미정 | 2026.05.15 |
-| 5회차 | 미정 | 미정 | 2026.06.19 |
-| 6회차 | 미정 | 박현정 | 2026.06.26 |
-| 7회차 | 미정 | 미정 | 2026.07.03 |
+| 4회차 | 클라우드 컴퓨팅 | 김다혜 | 2026.05.15 |
+| 5회차 | REST API | 임유미 | 2026.06.19 |
+| 6회차 | 캐시(Cache) | 박현정 | 2026.06.26 |
+| 7회차 | 소셜 로그인 | 배선아 | 2026.07.03 |
 | 8회차 | 미정 | 미정 | 2026.07.31 |
 | 9회차 | 미정 | 미정 | 2026.08.07 |
 | 10회차 | 골든 포테이토 |  | 2026.08.14 |
