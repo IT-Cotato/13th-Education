@@ -15,7 +15,7 @@ IT 연합동아리 '코테이토' 13기 교육팀 발표 자료 폴더입니다.
 
 | <img src="https://github.com/hyunj24.png" width=120/> | <img src="https://github.com/lemoncurdyogurt.png" width=120/> | <img src="https://github.com/kangcheolung.png" width=120 /> | <img src="https://github.com/kdhye516.png" width=120 /> | <img src="https://github.com/pearseona.png" width=120 /> | <img src="https://github.com/Limlim0208.png" width=120 /> |
 | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: |
-| [박현정](https://github.com/hyunj24) | [신수진](https://github.com/lemoncurdyogurt) | [강철웅](https://github.com/kangcheolung) | [김다혜](https://github.com/kdhye516) | [배선아](https://github.com/Baeseona) | [임유미](https://github.com/Limlim0208) |
+| [박현정](https://github.com/hyunj24) | [신수진](https://github.com/lemoncurdyogurt) | [강철웅](https://github.com/kangcheolung) | [김다혜](https://github.com/kdhye516) | [배선아](https://github.com/pearseona) | [임유미](https://github.com/Limlim0208) |
 | [ 12기 BE ] 교육팀장 | [ 12기 FE ] 교육팀 부팀장 | [ 12기 BE ] 교육팀 부팀장 | [ 13기 FE ] 교육팀원 | [ 13기 BE ] 교육팀원 | [ 13기 FE ] 교육팀원 |
 
 # What we Studied
